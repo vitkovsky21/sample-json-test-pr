@@ -1,9 +1,10 @@
 {
   "chartsData": [
     {
-      "id": 1,
+      "id": 0,
       "charts": [
         {
+          "id": 0,
           "chart": {
             "type": "bar"
           },
@@ -46,6 +47,7 @@
           "date": "2013-12-02T17:57:28.556094Z"
         },
         {
+          "id": 1,
           "chart": {
             "type": "bar"
           },
