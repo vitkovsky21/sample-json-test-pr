@@ -11,7 +11,7 @@
               "enabled": false
           },
           "title": {
-            "text": "UEFA CL top scorers by season"
+            "text": "Best Players"
           },
           "xAxis": {
             "categories": ["2020/21", "2019/20", "2018/19", "2017/18", "2016/17"]
@@ -32,15 +32,15 @@
           },
           "series": [{
             "type": "line",
-            "name": "Cristiano Ronaldo",
+            "name": "Glennis Heino",
             "data": [4, 4, 6, 15, 12]
           }, {
             "type": "line",
-            "name": "Lionel Messi",
+            "name": "Nada Matan",
             "data": [5, 3, 12, 6, 11]
           }, {
             "type": "line",
-            "name": "Robert Lewandowski",
+            "name": "Izabel Nikhil",
             "data": [5, 15, 8, 5, 8]
           }],
           "date": "2013-12-02T17:57:28.556094Z"
@@ -53,7 +53,7 @@
               "enabled": false
           },
           "title": {
-            "text": "UEFA CL top scorers by season"
+            "text": "Best Musicians"
           },
           "xAxis": {
             "categories": ["2020/21", "2019/20", "2018/19", "2017/18", "2016/17"]
@@ -61,7 +61,7 @@
           "yAxis": {
             "min": 0,
             "title": {
-              "text": "Goals"
+              "text": "Songs"
             }
           },
           "legend": {
@@ -73,16 +73,16 @@
             }
           },
           "series": [{
-            "type": "line",
-            "name": "Cristiano Ronaldo",
+            "type": "area",
+            "name": "Teodor Danail",
             "data": [4, 4, 6, 15, 12]
           }, {
-            "type": "line",
-            "name": "Lionel Messi",
+            "type": "area",
+            "name": "Chandra Merike",
             "data": [5, 3, 12, 6, 11]
           }, {
-            "type": "line",
-            "name": "Robert Lewandowski",
+            "type": "area",
+            "name": "Zelda Estrella",
             "data": [5, 15, 8, 5, 8]
           }],
           "date": "2015-02-13T17:57:28.556094Z"
